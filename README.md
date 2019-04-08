@@ -1,2 +1,2 @@
-# DDIRPA
+# DDI RPA
 Nuget
